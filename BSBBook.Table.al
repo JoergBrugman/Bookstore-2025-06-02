@@ -1,3 +1,6 @@
+/// <summary>
+/// Table BSB Book (ID 50100).
+/// </summary>
 table 50100 "BSB Book"
 {
     Caption = 'Book';
@@ -114,6 +117,10 @@ table 50100 "BSB Book"
         TestBlocked(Rec);
     end;
 
+    /// <summary>
+    /// Funktion testet, ob der ......
+    /// </summary>
+    /// <param name="BookNo">Code[20].</param>
     procedure TestBlocked(BookNo: Code[20])
     var
         BSBBook: Record "BSB Book";
