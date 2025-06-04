@@ -11,5 +11,6 @@
     "CRS.OnSaveAlFileAction": "Rename",
     "CRS.ObjectNamePrefix": "BSB ",
     "editor.mouseWheelZoom": true,
-    "editor.snippetSuggestions": "bottom"
+    "editor.snippetSuggestions": "bottom",
+    "xliffSync.parseFromDeveloperNote": true
 }
