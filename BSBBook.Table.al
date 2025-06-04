@@ -33,11 +33,11 @@ table 50100 "BSB Book"
         {
             Caption = 'Blocked';
         }
-        field(5; Type; Option)
+        field(5; Type; Enum "BSB Book Type")
         {
             Caption = 'Type';
-            OptionMembers = " ",Hardcover,Paperback;
-            OptionCaption = ' ,Hardcover,Paperback';
+            // OptionMembers = " ",Hardcover,Paperback;
+            // OptionCaption = ' ,Hardcover,Paperback';
         }
         field(7; Created; Date)
         {
