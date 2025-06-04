@@ -40,6 +40,6 @@ page 50102 "BSB Book Factbox"
 
     local procedure ShowDetail()
     begin
-        Page.RunModal(Page::"BSB Book Card", Rec);
+        Rec.ShowCard();
     end;
 }
