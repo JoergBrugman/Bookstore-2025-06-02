@@ -78,6 +78,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table BSB Book - Field Type - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 4266663845 - Method 4183682721 - NamedType 4073702997" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Information Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Company Info. Wizard Meth - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType WizardTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4266663845 - Method 4183682721 - NamedType 1608306038" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Provide the Name and E-Mail of your Compamny.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Company Info. Wizard Meth - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType WizardDescTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4266663845 - Method 1858114840 - NamedType 254384817" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This setup is already done. Do you want to open the setup page instead?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Company Info. Wizard Meth - Method OnReRunOfCompletedSetup - NamedType SetupAlreadyDoneQst</note>
+        </trans-unit>
         <trans-unit id="Codeunit 3524322914 - NamedType 1969826809" size-unit="char" translate="yes" xml:space="preserve">
           <source>Do not forget to enter %1 in %2 %3 %4</source>
           <note from="Developer" annotates="general" priority="2">de-DE=Bitte vergessen Sie nicht %1 in %2 %3 %4 einzugeben</note>
