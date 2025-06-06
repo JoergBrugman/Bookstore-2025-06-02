@@ -3,6 +3,46 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Bookstore">
     <body>
       <group id="body">
+        <trans-unit id="Table 854473841 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AL Issue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB AL Issue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 854473841 - Field 340792511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created at</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB AL Issue - Field Created at - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 854473841 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB AL Issue - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 854473841 - Field 2272340397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB AL Issue - Field Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 854473841 - Field 269761521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>State</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB AL Issue - Field State - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 854473841 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB AL Issue - Field Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 854473841 - Field 1814464443 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB AL Issue - Field User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 854473841 - Field 2459809053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Website</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB AL Issue - Field Website - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3249233238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -117,6 +157,51 @@
           <source>Do not forget to enter %1 in %2 %3 %4</source>
           <note from="Developer" annotates="general" priority="2">de-DE=Bitte vergessen Sie nicht %1 in %2 %3 %4 einzugeben</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Subscriber Store - NamedType FavoriteBookHintMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 3653255207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AL Issues</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB AL Issue List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3653255207 - Control 986080663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Created at field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB AL Issue List - Control CreatedAt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3653255207 - Control 2272340397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB AL Issue List - Control Number - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3653255207 - Control 269761521 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the State field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB AL Issue List - Control State - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3653255207 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Title field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB AL Issue List - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3653255207 - Control 1814464443 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the User field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB AL Issue List - Control User - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3653255207 - Control 2459809053 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Website field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB AL Issue List - Control Website - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3653255207 - Action 2151166085 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Refresh Issues action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB AL Issue List - Action RefreshALIssueList - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3653255207 - Action 2151166085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh Issues</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB AL Issue List - Action RefreshALIssueList - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1869352431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Map</source>
