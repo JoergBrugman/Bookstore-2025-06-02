@@ -93,6 +93,26 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Company Info. Wizard Meth - Method OnReRunOfCompletedSetup - NamedType SetupAlreadyDoneQst</note>
         </trans-unit>
+        <trans-unit id="Codeunit 607005014 - NamedType 3202290173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balace of Customer is lager than Credit Limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Notif. Subscriber Store - NamedType CreditLimitNotifDescTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 607005014 - NamedType 3809411406" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Notif. Subscriber Store - NamedType CreditLimitNotifEditCustomerTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 607005014 - NamedType 696338853" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 of %3 %4 %5 is lager than %6</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Notif. Subscriber Store - NamedType CreditLimitNotifMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 607005014 - NamedType 2914810102" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Balance exceeds Credit Limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Notif. Subscriber Store - NamedType CreditLimitNotifTxt</note>
+        </trans-unit>
         <trans-unit id="Codeunit 3524322914 - NamedType 1969826809" size-unit="char" translate="yes" xml:space="preserve">
           <source>Do not forget to enter %1 in %2 %3 %4</source>
           <note from="Developer" annotates="general" priority="2">de-DE=Bitte vergessen Sie nicht %1 in %2 %3 %4 einzugeben</note>
