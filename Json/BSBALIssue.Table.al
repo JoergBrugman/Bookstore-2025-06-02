@@ -4,7 +4,7 @@ table 50145 "BSB AL Issue"
 
     fields
     {
-        field(1; Id; Integer) { Caption = 'ID'; }
+        field(1; "Id-X"; Integer) { Caption = 'ID'; }
         field(2; Number; Integer) { Caption = 'Number'; }
         field(3; Title; text[250]) { Caption = 'Title'; }
         field(5; "Created at"; DateTime) { Caption = 'Created at'; }
@@ -19,7 +19,7 @@ table 50145 "BSB AL Issue"
 
     keys
     {
-        key(PK; id)
+        key(PK; "Id-X")
         {
             Clustered = true;
         }

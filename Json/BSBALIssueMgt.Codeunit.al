@@ -20,7 +20,7 @@ codeunit 50145 "BSB AL Issue Mgt."
             BSBALIssue.Init();
             // BSBALIssue.Id := GetJsonToken(JsonObject, 'id').AsValue().AsInteger(); // War notwendig wg. Integer-Überlauf!
             EntryNo += 1;
-            BSBALIssue.Id := EntryNo;
+            BSBALIssue."Id-X" := EntryNo;
             BSBALIssue.Number := GetJsonToken(JsonObject, 'number').AsValue().AsInteger();
             BSBALIssue.Title := TrimText(GetJsonToken(JsonObject, 'title').AsValue().AsText(), MaxStrLen(BSBALIssue.Title));
             BSBALIssue."Created at" := GetJsonToken(JsonObject, 'created_at').AsValue().AsDateTime();
