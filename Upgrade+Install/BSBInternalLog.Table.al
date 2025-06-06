@@ -32,6 +32,14 @@ table 50101 "BSB Internal Log"
             Caption = 'Comment';
             DataClassification = ToBeClassified;
         }
+        field(6; Dummy1; Text[10])
+        {
+            Caption = 'Dummy1';
+        }
+        field(7; Dummy2; Text[10])
+        {
+            Caption = 'Dummy1';
+        }
     }
     keys
     {
